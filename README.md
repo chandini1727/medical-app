@@ -13,9 +13,7 @@ A full-stack healthcare platform providing users with AI-powered symptom analysi
 - 📋 **External Forms Management** – Manage Google/Microsoft forms for patient data.
 - 🛡️ **Authentication** – Role-based login for Users, Admins, and Therapists.
 - 📈 **Admin Dashboard** – Manage users, analytics, and form submissions.
-
 ---
-
 ## 🧑‍💻 Tech Stack
 
 ### 🌐 Frontend
