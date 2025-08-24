@@ -3,7 +3,6 @@
 A full-stack healthcare platform providing users with AI-powered symptom analysis, medicine ordering, nearby hospital/pharmacy listings, and more — all in one place.
 
 ---
-
 ## 🚀 Features
 
 - 🧠 **AI Symptom Checker** – Suggests possible conditions and remedies using LLMs.
