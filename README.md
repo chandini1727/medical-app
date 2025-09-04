@@ -14,7 +14,6 @@ A full-stack healthcare platform providing users with AI-powered symptom analysi
 - 📈 **Admin Dashboard** – Manage users, analytics, and form submissions.
 ---
 ## 🧑‍💻 Tech Stack
-
 ### 🌐 Frontend
 - React.js
 - Tailwind CSS
