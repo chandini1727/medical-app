@@ -19,7 +19,6 @@ A full-stack healthcare platform providing users with AI-powered symptom analysi
 - Tailwind CSS
 - React Router
 - Axios
-
 ### 🔧 Backend
 - Node.js + Express.js
 - PostgreSQL (with Prisma / Sequelize)
